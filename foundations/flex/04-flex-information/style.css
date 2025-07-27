@@ -1,6 +1,7 @@
 body {
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
+}
 
 img {
   width: 100px;
@@ -35,4 +36,3 @@ img {
   justify-content: center;
   background: #eee;
 }
-
